@@ -21,5 +21,5 @@ Table of content
 
 | Assignments        | Links           |
 |    ---             |      ---        |
-|1- Mindset Growth   |      [Visit](https://haznto.github.io/reading-notes/reading-notes/GrowthMindset.html)     |
+|1- Mindset Growth   |      [Visit](https://haznto.github.io/reading-notes/notes/TheGrowthMindset/GrowthMindset.html)     |
 ___
