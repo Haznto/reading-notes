@@ -17,4 +17,9 @@ ___
 
 - ## **401 - Advanced Software Development**
 
+Table of content
+
+| Assignments        | Links           |
+|    ---             |      ---        |
+|1- Mindset Growth   |      [Visit](https://haznto.github.io/reading-notes/reading-notes/GrowthMindset.html)     |
 ___
