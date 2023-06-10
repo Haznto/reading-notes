@@ -24,4 +24,8 @@ Actually I am looking forward for the 4th module about AWS. also learning more a
 
 My goals are to learn each detail and hopefully to learn it in an interesting way what would make it stick in our minds, so we can use it with comprehending and not memeorizing.
 
+## Things I want to know more about
+
+I would like to be introduced to the different types of context we can use while building our servers using Node.js
+
 ---
