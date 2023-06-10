@@ -23,4 +23,5 @@ Table of content
 |    ---             |      ---        |
 |1- Mindset Growth   |      [Visit](https://haznto.github.io/reading-notes/notes/TheGrowthMindset/GrowthMindset.html)     |
 |2- Node Js Class1 Part1| [Visit](https://haznto.github.io/reading-notes/notes/class1-notes/NodeEcosystem.html) |
+|2- Node Js Class1 Part2| [Visit](https://haznto.github.io/reading-notes/notes/class1-notes/Express-Npm.html) |
 ___
