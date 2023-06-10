@@ -52,7 +52,7 @@ This section matters because it's an introductry way to understand building webs
 
  > - forgetting to run tests frequently
  > - writing tests that are too large or coarse-grained
-
+>
  2- Team pitfalls:
 
  > - partial adoption – only a few developers on the team use TDD
@@ -83,6 +83,7 @@ There are multiple benefits of CI which of are:
 ***What are your learning goals after reading and reviewing the class README?***
 
 >The goals are to implement and understand the concepts we will learn such as  using and creating Modules by Node, understand and use middlewares using express, differntiate between status codes with each response, apply the TDD approach while building our applications.
+
 ---
 
 ## Things I want to know more about
