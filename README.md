@@ -26,4 +26,5 @@ Table of content
 |3- Node Js Class1 Part2| [Visit](https://haznto.github.io/reading-notes/notes/class1-notes/Express-Npm.html) |
 |4- Data-Structure-and-algorithm| [Visit](https://haznto.github.io/reading-notes/notes/Data-structure-and-algorithm-reading/Data-structure-and-algorithm.html) |
 |5- Express Rest API| [Visit](https://haznto.github.io/reading-notes/notes/class2-notes/Express-REST-API.html) |
+|6- Data Modeling| [Visit](https://haznto.github.io/reading-notes/notes/class3-notes/Nosql-vs-Sql.html) |
 ___
