@@ -28,4 +28,5 @@ Table of content
 |5- Express Rest API| [Visit](https://haznto.github.io/reading-notes/notes/class2-notes/Express-REST-API.html) |
 |6- Data Modeling| [Visit](https://haznto.github.io/reading-notes/notes/class3-notes/Nosql-vs-Sql.html) |
 |7- Authentication| [Visit](https://haznto.github.io/reading-notes/notes/class6-notes/Authentication.html) |
+|8- JsonWebToken| [Visit](https://haznto.github.io/reading-notes/notes/class7-notes/jwt-notes.html) |
 ___
