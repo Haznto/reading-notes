@@ -29,4 +29,5 @@ Table of content
 |6- Data Modeling| [Visit](https://haznto.github.io/reading-notes/notes/class3-notes/Nosql-vs-Sql.html) |
 |7- Authentication| [Visit](https://haznto.github.io/reading-notes/notes/class6-notes/Authentication.html) |
 |8- JsonWebToken| [Visit](https://haznto.github.io/reading-notes/notes/class7-notes/jwt-notes.html) |
+|9- RBAC| [Visit](https://haznto.github.io/reading-notes/notes/class8-notes/RBAC.html) |
 ___
