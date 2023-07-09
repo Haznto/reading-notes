@@ -30,4 +30,5 @@ Table of content
 |7- Authentication| [Visit](https://haznto.github.io/reading-notes/notes/class6-notes/Authentication.html) |
 |8- JsonWebToken| [Visit](https://haznto.github.io/reading-notes/notes/class7-notes/jwt-notes.html) |
 |9- RBAC| [Visit](https://haznto.github.io/reading-notes/notes/class8-notes/RBAC.html) |
+|10- Event Driven Programming| [Visit](https://haznto.github.io/reading-notes/notes/class11-notes/event-driven.html) |
 ___
