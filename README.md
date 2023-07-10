@@ -31,4 +31,5 @@ Table of content
 |8- JsonWebToken| [Visit](https://haznto.github.io/reading-notes/notes/class7-notes/jwt-notes.html) |
 |9- RBAC| [Visit](https://haznto.github.io/reading-notes/notes/class8-notes/RBAC.html) |
 |10- Event Driven Programming| [Visit](https://haznto.github.io/reading-notes/notes/class11-notes/event-driven.html) |
+|11- Socket.io| [Visit](https://haznto.github.io/reading-notes/notes/class12-notes/socketio.html) |
 ___
