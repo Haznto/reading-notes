@@ -1,47 +1,46 @@
-# Authentication
+# AWS Cloud Service
 
-***Authentication** is an important topic because each website that has huge economical sides, has user who use it, such as facebook, twitter, etc.. and those are website serving users and their data, to protect these data and such privacy, and to make the users feel safe using these website, authentication is a must, so it can ensure that each user has only access on his/her sensitive information.*
+## AWS EC2
 
-## **Securing Passwords**
+What is an EC2 Instance?
 
- **1- Explain to a non-technical friend how you would safely hash and store a password.**
+>it's a virtual computing environment but on cloud, it helps to manage your application building processes and services with the ability of use on multiple operating systems, so instead of building your server on your local place, you could do that on a cloud not caring about the infrastructure to provide for your server.
 
-*Simply by passing the password to a software, which will perform a certain process called (bycrypt function) that will make calculations to produce an equivalent value but in a different secret language only that software knows, then we store it as is.*
+Name 2 use cases for EC2.
 
- **2- What is Bcrypt?**
+> - Train and deploy ML applications
+> - Develop for Apple platforms
 
- >Bcrypt is an adaptive hashing function based on the Blowfish symmetric block cipher cryptographic algorithm and introduces a work factor (also known as security factor), which allows you to determine how expensive the hash function will be.
+Provide 1 reason to use ECS instead of a service such as Heroku, Digital Ocean, or Render.com.
 
- **3- Why might you use something like Bcrypt?**
+>EC2 has much features over Heroku for example, and it is made actually for scalable companies with large business that needs lots of requirements and speed, which EC2 beats the other clouding hosting platforms for such projects. other wise for small projects you can use the others, on other aspect too, EC2 give you the whole control over your projects instances.
 
- *Because it has much benefits such as providing the complexity factor and even has the stretching feature, makes it harder as hell to break a password.*
+## EC2 For Humans
 
-## **Basic Auth****
+Where can we find EC2 on the AWS Console?
 
-**1- What is Basic Authentication?**
+>Under the compute section
 
-*It is a method related to http request that helps providing a username and a password while making that request.*
+Explain the general difference between T2 Micro and XL.
+>The difference is in term of specification, as the size (micro , small ,medium, large) increases, these specifications increase of the similar machine type. micro for example has  1 cpu and 1 gigabyte of ram, while large has 2 Cpu and 8 gigabyte of ram so it's stronger.
 
-**2- What properties are necessary in the header of a Basic Auth request?**
+Explain a “Compute Cycle” to a non-technical friend.
 
-- *The Authentication header that includes the credentials joined by a colon.*
+>Computing cycle is like, translation, when you talk to your friend, your friend brain is the processor, same as for computer cpu, it gets the words by listening and then it do complex process to get the meaning of what you said, then reply to what you said either by a word or an act, same for the computer, once you do an operation, for example typing on the keyboard, the processor fetch that operation and decode it to it's understandable language, then it returns to you a response back encoded to your language or the act you would understand like showing you the words you typed.
 
-- *The header has to be cached first by the web browser for a period of time.*
+## Elastic Beanstalk
 
-**3- How are username:password in Basic Auth encoded?**
+What is Elastic Beanstalk?
+>an easy to use service to deploy, manage and scales web applications for your.
 
-*It's encoded in Base64 as ID and password joined by a colon.*
+Describe the relationship between EC2 and Elastic Beanstalk.
 
-## **OWASP auth cheatsheet**
+>Elasticbeans are working over EC2 instances, they follow the rules of it to deploy the server, so it is integrated.
 
-**1- Define the authentication process to a non-technical recruiter.**
+Name some benefits of using Elastic Beanstalk.
 
-It's like a verification process, in real life for example, when you go in the airport and they ask you for the tickets and the passport to make sure you are booked and allowed to enter the plane, the same thing happens on IT world, you have to provide data that ensures you are the person who you claim to be.
+>Supports multiple languages environment and and servers and support scalability of devices despite the need of upgrading the machine each time.
 
-**2- How should your error messaging respond (both HTTP and HTML)? Why?**
+## Things I want to know more about
 
-*In a generic manner regardless of the account state, so it will make it more secure for those who are trying to break to some accounts and give them zero information about the account status. and HTTP method erros should match the generic message too, not making a conflict and exposing the account status by sending a 200 code for exisitng account and 401 for example.*
-
-## **Things I want to know more about.**
-
-*I want to learn more about hashing technologies and about the cyber-security side of protecting our websites.*
+To learn about lambda.
