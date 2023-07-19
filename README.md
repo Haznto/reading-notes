@@ -33,4 +33,5 @@ Table of content
 |10- Event Driven Programming| [Visit](https://haznto.github.io/reading-notes/notes/class11-notes/event-driven.html) |
 |11- Socket.io| [Visit](https://haznto.github.io/reading-notes/notes/class12-notes/socketio.html) |
 |12- Message-queues| [Visit](https://haznto.github.io/reading-notes/notes/class13-notes/message-queues.html) |
+|13- Message-queues| [Visit](https://haznto.github.io/reading-notes/notes/class16-notes/AwsCloud.html) |
 ___
