@@ -34,4 +34,5 @@ Table of content
 |11- Socket.io| [Visit](https://haznto.github.io/reading-notes/notes/class12-notes/socketio.html) |
 |12- Message-queues| [Visit](https://haznto.github.io/reading-notes/notes/class13-notes/message-queues.html) |
 |13- AWS| [Visit](https://haznto.github.io/reading-notes/notes/class16-notes/AwsCloud.html) |
+|14- AWS: S3 & Lambda| [Visit](https://haznto.github.io/reading-notes/notes/class17-notes/AWS-S3-Lambda.html) |
 ___
