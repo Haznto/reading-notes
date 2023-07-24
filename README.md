@@ -35,4 +35,5 @@ Table of content
 |12- Message-queues| [Visit](https://haznto.github.io/reading-notes/notes/class13-notes/message-queues.html) |
 |13- AWS| [Visit](https://haznto.github.io/reading-notes/notes/class16-notes/AwsCloud.html) |
 |14- AWS: S3 & Lambda| [Visit](https://haznto.github.io/reading-notes/notes/class17-notes/AWS-S3-Lambda.html) |
+|15- API-Dynamo-Lambda| [Visit](https://haznto.github.io/reading-notes/notes/class18-notes/API-Dynamo-Lambda.html) |
 ___
