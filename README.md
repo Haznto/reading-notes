@@ -36,4 +36,5 @@ Table of content
 |13- AWS| [Visit](https://haznto.github.io/reading-notes/notes/class16-notes/AwsCloud.html) |
 |14- AWS: S3 & Lambda| [Visit](https://haznto.github.io/reading-notes/notes/class17-notes/AWS-S3-Lambda.html) |
 |15- API-Dynamo-Lambda| [Visit](https://haznto.github.io/reading-notes/notes/class18-notes/API-Dynamo-Lambda.html) |
+|15- AWS-Events| [Visit](https://haznto.github.io/reading-notes/notes/class19-notes/aws-events.html) |
 ___
