@@ -37,4 +37,5 @@ Table of content
 |14- AWS: S3 & Lambda| [Visit](https://haznto.github.io/reading-notes/notes/class17-notes/AWS-S3-Lambda.html) |
 |15- API-Dynamo-Lambda| [Visit](https://haznto.github.io/reading-notes/notes/class18-notes/API-Dynamo-Lambda.html) |
 |16- AWS-Events| [Visit](https://haznto.github.io/reading-notes/notes/class19-notes/aws-events.html) |
+|17- Component - based - UI| [Visit](https://haznto.github.io/reading-notes/notes/class26-notes/component-based-UI.html) |
 ___
