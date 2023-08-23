@@ -39,4 +39,5 @@ Table of content
 |16- AWS-Events| [Visit](https://haznto.github.io/reading-notes/notes/class19-notes/aws-events.html) |
 |17- Component - based - UI| [Visit](https://haznto.github.io/reading-notes/notes/class26-notes/component-based-UI.html) |
 |18- useState Hook | [Visit](https://haznto.github.io/reading-notes/notes/class27-notes/hooks.html) |
+|19- useEffect Hook | [Visit](https://haznto.github.io/reading-notes/notes/class28-notes/useEffect.html) |
 ___
