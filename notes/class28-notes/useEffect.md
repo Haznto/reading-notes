@@ -2,7 +2,7 @@
 
 **What is the main intended use case for the useEffect hook?**
 
->Connecting to an external system
+>Connecting to an external system to update your component based on the data coming from that external system like an API
 
 **How does the effect’s logic interact with the component?**
 
