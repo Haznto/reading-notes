@@ -19,6 +19,8 @@
 **Avoid deeply nested state.**
  >=> nesting states in each others will make the process harder on you to update these states since to access nested states you have to access the whole parent structure than contains these states to update it whole.
 
+***Passing State Deeply with Context***
+
 **What problem do Contexts aim to solve?**
 
 > "Prop drilling"  due to "lifting state up".
