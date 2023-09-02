@@ -41,4 +41,5 @@ Table of content
 |18- useState Hook | [Visit](https://haznto.github.io/reading-notes/notes/class27-notes/hooks.html) |
 |19- useEffect Hook | [Visit](https://haznto.github.io/reading-notes/notes/class28-notes/useEffect.html) |
 |20- useReducer Hook | [Visit](https://haznto.github.io/reading-notes/notes/class29-notes/useReducer.html) |
+|21- useContext Hook | [Visit](https://haznto.github.io/reading-notes/notes/class31-notes/context-api.html) |
 ___
