@@ -42,4 +42,5 @@ Table of content
 |19- useEffect Hook | [Visit](https://haznto.github.io/reading-notes/notes/class28-notes/useEffect.html) |
 |20- useReducer Hook | [Visit](https://haznto.github.io/reading-notes/notes/class29-notes/useReducer.html) |
 |21- useContext Hook | [Visit](https://haznto.github.io/reading-notes/notes/class31-notes/context-api.html) |
+|22- useContext & useReducer Combo | [Visit](https://haznto.github.io/reading-notes/notes/class32-notes/Context-API-Behaviors.html) |
 ___
