@@ -43,4 +43,6 @@ Table of content
 |20- useReducer Hook | [Visit](https://haznto.github.io/reading-notes/notes/class29-notes/useReducer.html) |
 |21- useContext Hook | [Visit](https://haznto.github.io/reading-notes/notes/class31-notes/context-api.html) |
 |22- useContext & useReducer Combo | [Visit](https://haznto.github.io/reading-notes/notes/class32-notes/Context-API-Behaviors.html) |
+|23- Auth-login | [Visit](https://haznto.github.io/reading-notes/notes/class33-notes/auth-login.html) |
+|24- API-Integration | [Visit](https://haznto.github.io/reading-notes/notes/class34-notes/API-Integration.html) |
 ___
