@@ -47,4 +47,5 @@ Table of content
 |24- API-Integration | [Visit](https://haznto.github.io/reading-notes/notes/class34-notes/API-Integration.html) |
 |25- Redux1 | [Visit](https://haznto.github.io/reading-notes/notes/class36-notes/Redux1.html) |
 |26- Redux2 | [Visit](https://haznto.github.io/reading-notes/notes/class37-notes/Redux2.html) |
+|27- Redux3 | [Visit](https://haznto.github.io/reading-notes/notes/class38-notes/Redux3.html) |
 ___
