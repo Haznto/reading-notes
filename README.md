@@ -50,4 +50,5 @@ Table of content
 |27- Redux3 | [Visit](https://haznto.github.io/reading-notes/notes/class38-notes/Redux3.html) |
 |27- Redux4 | [Visit](https://haznto.github.io/reading-notes/notes/class39-notes/Redux4.html) |
 |28- React Native | [Visit](https://haznto.github.io/reading-notes/notes/class41-notes/ReactNative.html) |
+|29- Ethics | [Visit](https://haznto.github.io/reading-notes/notes/class42-notes/Ethics.html) |
 ___
