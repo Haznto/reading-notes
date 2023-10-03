@@ -48,7 +48,8 @@ Table of content
 |25- Redux1 | [Visit](https://haznto.github.io/reading-notes/notes/class36-notes/Redux1.html) |
 |26- Redux2 | [Visit](https://haznto.github.io/reading-notes/notes/class37-notes/Redux2.html) |
 |27- Redux3 | [Visit](https://haznto.github.io/reading-notes/notes/class38-notes/Redux3.html) |
-|27- Redux4 | [Visit](https://haznto.github.io/reading-notes/notes/class39-notes/Redux4.html) |
-|28- React Native | [Visit](https://haznto.github.io/reading-notes/notes/class41-notes/ReactNative.html) |
-|29- Ethics | [Visit](https://haznto.github.io/reading-notes/notes/class42-notes/Ethics.html) |
+|28- Redux4 | [Visit](https://haznto.github.io/reading-notes/notes/class39-notes/Redux4.html) |
+|29- React Native | [Visit](https://haznto.github.io/reading-notes/notes/class41-notes/ReactNative.html) |
+|30- Ethics | [Visit](https://haznto.github.io/reading-notes/notes/class42-notes/Ethics.html) |
+|31- OSS | [Visit](https://haznto.github.io/reading-notes/notes/class43-notes/OSS.html) |
 ___
